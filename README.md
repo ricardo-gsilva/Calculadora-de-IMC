@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-A new Flutter project.
+Projeto simples para calcular IMC.
 
 ## Getting Started
 
